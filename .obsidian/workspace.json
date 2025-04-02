@@ -4,24 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb3af72f53a6ec8",
-        "type": "tabs",
+        "id": "6732876d40bd73a2",
+        "type": "split",
         "children": [
           {
-            "id": "4a3a1f08eaa5f4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
+            "id": "fbb3af72f53a6ec8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a3a1f08eaa5f4e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CMU-Courses/CMU Course Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "CMU Course Notes"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cb159ed1379b7020",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f5bcdc990d712398",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\bigst\\OneDrive\\Desktop\\notes-repo",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 97,
+                        "data": "Microsoft Windows [Version 10.0.22631.5039]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\bigst\\OneDrive\\Desktop\\notes-repo>\r\n\r\n\r\nC:\\Users\\bigst\\OneDrive\\Desktop\\notes-repo>git add \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[20A\u001b[51C",
+                        "rows": 21
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: cmd"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -94,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -159,23 +213,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "4a3a1f08eaa5f4e1",
+  "active": "f5bcdc990d712398",
   "lastOpenFiles": [
-    "CMU-Courses/15-213/15-213.md",
     "CMU-Courses/CMU Course Notes.md",
-    "CMU-Courses/15-259/15-259.md",
     "CMU-Courses/15-259/Summary of Discrete Distributions.md",
-    "CMU-Courses/15-259/Summary of Continuous Distributions.md",
+    "README.md",
     "Welcome.md",
+    "CMU-Courses/15-213/15-213.md",
+    "CMU-Courses/15-259/15-259.md",
+    "CMU-Courses/15-259/Summary of Continuous Distributions.md",
     "CMU-Courses/15-112",
     "CMU-Courses/15-122",
     "CMU-Courses/Untitled/desktop.ini",
